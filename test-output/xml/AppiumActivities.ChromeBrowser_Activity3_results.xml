@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="40.531">
+  <properties />
+  
+  
+            <testcase name="chromeActivity3Valid" time="19.044" classname="AppiumActivities.ChromeBrowser_Activity3" />
+                <testcase name="chromeActivity3InValid" time="21.487" classname="AppiumActivities.ChromeBrowser_Activity3" />
+      
+</testsuite>

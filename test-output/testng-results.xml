@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="218323" started-at="2020-09-24T12:18:18 CDT" finished-at="2020-09-24T12:21:57 CDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="218323" started-at="2020-09-24T12:18:18 CDT" finished-at="2020-09-24T12:21:57 CDT">
+      <class name="AppiumActivities.Activity_2_GoogleKeep">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:AppiumActivities.Activity_2_GoogleKeep@3439f68d]" name="beforeClass" is-config="true" duration-ms="10818" started-at="2020-09-24T12:18:47 CDT" finished-at="2020-09-24T12:18:58 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="googleKeep()[pri:0, instance:AppiumActivities.Activity_2_GoogleKeep@3439f68d]" name="googleKeep" duration-ms="16953" started-at="2020-09-24T12:18:58 CDT" finished-at="2020-09-24T12:19:15 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleKeep -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:AppiumActivities.Activity_2_GoogleKeep@3439f68d]" name="afterClass" is-config="true" duration-ms="766" started-at="2020-09-24T12:19:15 CDT" finished-at="2020-09-24T12:19:16 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- AppiumActivities.Activity_2_GoogleKeep -->
+      <class name="AppiumActivities.Activity_3_googleKeepWithReminder">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:AppiumActivities.Activity_3_googleKeepWithReminder@dbd940d]" name="beforeClass" is-config="true" duration-ms="10566" started-at="2020-09-24T12:19:16 CDT" finished-at="2020-09-24T12:19:26 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="googleKeepWithReminder()[pri:0, instance:AppiumActivities.Activity_3_googleKeepWithReminder@dbd940d]" name="googleKeepWithReminder" duration-ms="26224" started-at="2020-09-24T12:19:26 CDT" finished-at="2020-09-24T12:19:53 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleKeepWithReminder -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:AppiumActivities.Activity_3_googleKeepWithReminder@dbd940d]" name="afterClass" is-config="true" duration-ms="697" started-at="2020-09-24T12:19:53 CDT" finished-at="2020-09-24T12:19:53 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- AppiumActivities.Activity_3_googleKeepWithReminder -->
+      <class name="AppiumActivities.ChromeBrowser_Activity1">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:AppiumActivities.ChromeBrowser_Activity1@71d15f18]" name="beforeClass" is-config="true" duration-ms="10100" started-at="2020-09-24T12:19:53 CDT" finished-at="2020-09-24T12:20:04 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="chromeActivityNew()[pri:0, instance:AppiumActivities.ChromeBrowser_Activity1@71d15f18]" name="chromeActivityNew" duration-ms="20390" started-at="2020-09-24T12:20:04 CDT" finished-at="2020-09-24T12:20:24 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromeActivityNew -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:AppiumActivities.ChromeBrowser_Activity1@71d15f18]" name="afterClass" is-config="true" duration-ms="736" started-at="2020-09-24T12:20:24 CDT" finished-at="2020-09-24T12:20:25 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- AppiumActivities.ChromeBrowser_Activity1 -->
+      <class name="AppiumActivities.ChromeBrowser_Activity2">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:AppiumActivities.ChromeBrowser_Activity2@17695df3]" name="beforeClass" is-config="true" duration-ms="9965" started-at="2020-09-24T12:20:25 CDT" finished-at="2020-09-24T12:20:35 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="chromeActivity2Invalid()[pri:0, instance:AppiumActivities.ChromeBrowser_Activity2@17695df3]" name="chromeActivity2Invalid" duration-ms="16624" started-at="2020-09-24T12:20:35 CDT" finished-at="2020-09-24T12:20:51 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromeActivity2Invalid -->
+        <test-method status="PASS" signature="chromeActivity2Valid()[pri:0, instance:AppiumActivities.ChromeBrowser_Activity2@17695df3]" name="chromeActivity2Valid" duration-ms="14100" started-at="2020-09-24T12:20:51 CDT" finished-at="2020-09-24T12:21:05 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromeActivity2Valid -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:AppiumActivities.ChromeBrowser_Activity2@17695df3]" name="afterClass" is-config="true" duration-ms="794" started-at="2020-09-24T12:21:05 CDT" finished-at="2020-09-24T12:21:06 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- AppiumActivities.ChromeBrowser_Activity2 -->
+      <class name="AppiumActivities.Activity_1_GoogleTasks">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:AppiumActivities.Activity_1_GoogleTasks@140e5a13]" name="beforeClass" is-config="true" duration-ms="12136" started-at="2020-09-24T12:18:18 CDT" finished-at="2020-09-24T12:18:30 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="googleTasks()[pri:0, instance:AppiumActivities.Activity_1_GoogleTasks@140e5a13]" name="googleTasks" duration-ms="16083" started-at="2020-09-24T12:18:30 CDT" finished-at="2020-09-24T12:18:47 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTasks -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:AppiumActivities.Activity_1_GoogleTasks@140e5a13]" name="afterClass" is-config="true" duration-ms="778" started-at="2020-09-24T12:18:47 CDT" finished-at="2020-09-24T12:18:47 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- AppiumActivities.Activity_1_GoogleTasks -->
+      <class name="AppiumActivities.ChromeBrowser_Activity3">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:AppiumActivities.ChromeBrowser_Activity3@6c9f5c0d]" name="beforeClass" is-config="true" duration-ms="9992" started-at="2020-09-24T12:21:06 CDT" finished-at="2020-09-24T12:21:16 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="chromeActivity3InValid()[pri:0, instance:AppiumActivities.ChromeBrowser_Activity3@6c9f5c0d]" name="chromeActivity3InValid" duration-ms="21487" started-at="2020-09-24T12:21:16 CDT" finished-at="2020-09-24T12:21:38 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromeActivity3InValid -->
+        <test-method status="PASS" signature="chromeActivity3Valid()[pri:0, instance:AppiumActivities.ChromeBrowser_Activity3@6c9f5c0d]" name="chromeActivity3Valid" duration-ms="19044" started-at="2020-09-24T12:21:38 CDT" finished-at="2020-09-24T12:21:57 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromeActivity3Valid -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:AppiumActivities.ChromeBrowser_Activity3@6c9f5c0d]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-09-24T12:21:57 CDT" finished-at="2020-09-24T12:21:57 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- AppiumActivities.ChromeBrowser_Activity3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

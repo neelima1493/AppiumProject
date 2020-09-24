@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+	<listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    </listeners>
+  <test name="Test">
+    <classes>
+      <class name="AppiumActivities.Activity_1_GoogleTasks"/>
+      <class name="AppiumActivities.Activity_2_GoogleKeep"/>
+      <class name="AppiumActivities.Activity_3_googleKeepWithReminder"/>
+      <class name="AppiumActivities.ChromeBrowser_Activity1"/>
+      <class name="AppiumActivities.ChromeBrowser_Activity2"/>
+      <class name="AppiumActivities.ChromeBrowser_Activity3"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

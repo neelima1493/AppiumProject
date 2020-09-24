@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="16.953">
+  <properties />
+  
+  
+            <testcase name="googleKeep" time="16.953" classname="AppiumActivities.Activity_2_GoogleKeep" />
+      
+</testsuite>
